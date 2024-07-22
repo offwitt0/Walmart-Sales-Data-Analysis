@@ -141,3 +141,10 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
+## Dashboard
+![1](https://github.com/user-attachments/assets/20b77aaf-a971-4f84-b8f0-e4a22bfe2fe8)
+![2](https://github.com/user-attachments/assets/dd3ba3f8-61c8-4222-9a87-e83d8cf0ca04)
+![3](https://github.com/user-attachments/assets/ed8835a5-b0e9-4636-a4fa-e23db3ebd1f1)
+![4](https://github.com/user-attachments/assets/8c5e7852-a6af-431a-907e-3f6fbcd22993)
+
+@OFFWITT0
