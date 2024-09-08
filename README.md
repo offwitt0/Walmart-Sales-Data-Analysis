@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/90ba9c46-e017-4925-8127-8c5a122ffdfe)
 ## About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
